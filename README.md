@@ -1,2 +1,2 @@
 # site-bragi
-Site do estúdio de desenvolvimento Bragi Estúdios
+Site do estúdio de desenvolvimento de jogos Bragi Estúdios
